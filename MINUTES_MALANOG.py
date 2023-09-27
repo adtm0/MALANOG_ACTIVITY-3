@@ -1,4 +1,4 @@
-    user_input = eval(input("Enter an integer for seconds: "))
+user_input = eval(input("Enter an integer for seconds: "))
 minutes = user_input // 60
 seconds = user_input % 60
 
