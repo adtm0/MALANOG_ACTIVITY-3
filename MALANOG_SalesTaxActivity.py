@@ -7,4 +7,4 @@ amount = float(input("Enter purchase amount: "))
 tax = (0.06 * amount).__round__(2)
 
 # Display tax
-print(f"Sales tax is", tax)
+print("Sales tax is", tax)
